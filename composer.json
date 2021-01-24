@@ -1,0 +1,8 @@
+{
+    "name": "tobi/tobi",
+    "description": "test package",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
